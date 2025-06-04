@@ -11,7 +11,7 @@ export default function apiImages(req, res) {
       {
         id: 2,
         title: "A smiley frog",
-        url: "https://media.istockphoto.com/id/1049028724/photo/red-eyed-tree-frog-smile.jpg?s=612x612&w=0&k=20&c=mbgn5pLlHri8BV17jdw_nzzRBBJ9PC3IQryFADqHVqI",
+        url: "https://as1.ftcdn.net/v2/jpg/01/99/77/64/1000_F_199776474_ORr8LaAj6pihYKMD4HqHpQ2nkTZ0IrIX.jpg",
         alt: "An image of a frog that is smiling happily",
       },
       {
